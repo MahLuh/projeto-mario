@@ -1,0 +1,33 @@
+body {
+    background-size: cover;
+}
+.heading {
+   width: 100%;
+
+}
+.heading button {
+    float: right;
+    margin-top: -50px;
+}
+.bigImage {
+    width: 100%;
+    height: 70%;
+}
+#startButton {
+    font-size: 20px;
+
+}
+.modalDialoge{
+   width: 90%;
+}
+.instructionImage {
+    display: inline-block;
+    width: 45%;
+}
+.webcan {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+
+}
